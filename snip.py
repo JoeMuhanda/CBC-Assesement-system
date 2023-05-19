@@ -20,4 +20,4 @@ def factorial(n):
 # Example usage
 number = 5
 result = factorial(number)
-print(f"The factorial ofi
+print(f"The facto
