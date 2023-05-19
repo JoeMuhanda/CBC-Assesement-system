@@ -18,5 +18,5 @@ def factorial(n):
         return n * factorial(n - 1)
 
 # Example usage
-number = 5
+
 
