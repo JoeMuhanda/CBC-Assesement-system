@@ -12,7 +12,7 @@ print(f"The factorial of {number} is {result}")
 
 
 
-    if n == 0:
+
 
     
 
