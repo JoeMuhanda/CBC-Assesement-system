@@ -11,7 +11,7 @@ print(f"The factorial of {number} is {result}")
 
 
 
-def factorial(n):
+def fa
     if n == 0:
         return 1
     else:
