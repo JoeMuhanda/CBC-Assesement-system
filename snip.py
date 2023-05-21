@@ -12,7 +12,7 @@ print(f"The factorial of {number} is {result}")
 c
 p
 hh
-u
+uy
 t
 f
 y
